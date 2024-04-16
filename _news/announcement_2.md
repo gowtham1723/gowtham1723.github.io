@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Our paper on “Automated gastrointestinal abnormalities detection from endoscopic images” has been accepted for publication in the 16th International Conference on Industrial and Information Systems. (ICIIS 2021)
 date: 2021-12-09 16:11:00-0400
-inline: false
+inline: true
 related_posts: false
+---
+Our paper on “Automated gastrointestinal abnormalities detection from endoscopic images” has been accepted for publication in the 16th International Conference on Industrial and Information Systems. (ICIIS 2021)
 <!-- ---
 
 Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
