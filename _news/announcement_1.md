@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-July 
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Attended IEEE EMBC 2024 in Orlando, USA to present our paper on “A multi-modal approach for identifying schizophrenia using cross-modal attention".
