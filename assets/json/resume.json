@@ -4,23 +4,23 @@
     "label": "PhD Researcher",
     "email": "gowthampremananth17@gmail.com",
     "url": "https://gowtham1723.github.io/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "A PhD student interested in exploring the applications of deep learning in medical applications.",
     "location": {
       "address": "5111 Lackawanna St",
       "postalCode": "MD 20740",
       "city": "College Park",
-      "countryCode": "US",
-      "region": "Maryland"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+      "countryCode": "USA"
   },
   "work": [
+    {
+      "name":"Dolby Laboratories, USA",
+      "position": "PhD Research Intern",
+      "url": "https://www.dolby.com",
+      "startDate": "2024-05-20"'
+      "endDate": "Present",
+      "summary": " Conducted research in multimodal speech processing.",
+      "highlights": ["Research on multimodal speech processing"]
+    },
     {
       "name": "Institute for Advanced Study, Princeton University",
       "position": "Professor of Theoretical Physics",
