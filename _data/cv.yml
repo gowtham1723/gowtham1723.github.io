@@ -6,7 +6,7 @@
     - name: Date of Birth
       value: 17th May 1996
     - name: Languages
-      value: English, Tamil
+      value: English,Tamil
 
 - title: Education
   type: time_table
