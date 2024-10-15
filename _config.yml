@@ -21,7 +21,7 @@ repository               : "gowtham1723/gowtham1723.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/Profile.PNG"
+  avatar           : "profile2.png"
   name             : "Gowtham Premananth"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student at the University of Maryland College Park, USA."
