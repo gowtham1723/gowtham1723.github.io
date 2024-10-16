@@ -29,7 +29,7 @@ Work experience
   * IIT Gandhinagar, India
   * Supervisor: Prof. Shanmuganathan Raman
 
-*  January 2019 - April 2019: Research Intern
+* January 2019 - April 2019: Research Intern
   * IIT Gandhinagar, India
   * Supervisor: Prof. Shanmuganathan Raman
   
