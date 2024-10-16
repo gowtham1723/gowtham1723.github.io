@@ -1,6 +1,6 @@
 ---
 title: "Lecturer in Computer Engineering"
-collection: teaching
+collection: news
 type: "Undergraduate courses"
 permalink: /teaching/2015-spring-teaching-2
 venue: "Depratment of Computer Engineering, Faculty of Engineering, University of Jaffna, Sri Lanka."
