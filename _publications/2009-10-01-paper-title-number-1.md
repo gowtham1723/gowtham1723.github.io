@@ -3,7 +3,6 @@ title: "Automated gastrointestinal abnormalities detection from endoscopic image
 collection: publications
 category: conferences
 permalink: /publication/2009-10-01-paper-title-number-1
-# excerpt: ''
 date: 2021-09-12
 venue: 'IEEE 16th International Conference on Industrial and Information Systems (ICIIS)'
 paperurl: 'https://ieeexplore.ieee.org/document/9660670'
