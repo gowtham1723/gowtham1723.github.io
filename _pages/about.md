@@ -11,5 +11,8 @@ Gowtham Premananth received the Bachelor of Science honors degree in Computer en
 
 Gowtham’s research is primarily on speech communication. He combines knowledge of digital signal processing, speech science, linguistics, computer vision and machine learning to conduct interdisciplinary research in the detection and monitoring of mental health using human speech.
 
-###Latest News
+Latest News
 ===============
+
+  * Gave a Lightning talk on " A Multimodal Framework for the Assessment of the Schizophrenia Spectrum" at the Special seasion on Speech and language in health: from remote monitoring to medical conversations at Interspeech 2024, Kos island, Greece.
+  * Our paper " A Multimodal Framework for the Assessment of the Schizophrenia Spectrum" got published at Interspeech 2024.
