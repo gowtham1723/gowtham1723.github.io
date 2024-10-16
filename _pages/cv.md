@@ -16,20 +16,22 @@ Education
 
 Work experience
 ======
+* August 2022 - Present: Graduate Research Assistant
+  * Speech Communication Lab, Institue for Systems Research, Depertment of Electrical and Computer Engineering, University of Maryland.
+  * Supervisor : Prof. Carol Espy-Wilson
+
 * Summer 2024: Phd Research Intern
   * Dolby Laboratories Inc.
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * Duties includes: worked on a project as a part of the Multimodal Processing Team in the Advanced Technologies group.
+  * Supervisor: Dr. Andrea Fanelli
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* February 2020 - June 2020: Research Intern
+  * IIT Gandhinagar, India
+  * Supervisor: Prof. Shanmuganathan Raman
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+*  January 2019 - April 2019: Research Intern
+  * IIT Gandhinagar, India
+  * Supervisor: Prof. Shanmuganathan Raman
   
 Publications
 ======
