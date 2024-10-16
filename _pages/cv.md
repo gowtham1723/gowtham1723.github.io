@@ -16,8 +16,8 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
+* Summer 2024: Phd Research Intern
+  * Dolby Laboratories Inc.
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
