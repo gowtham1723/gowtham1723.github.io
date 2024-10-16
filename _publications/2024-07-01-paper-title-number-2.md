@@ -1,7 +1,7 @@
 ---
 title: "A multi-modal approach for identifying schizophrenia using cross-modal attention"
 collection: publications
-# category: conferences
+category: conferences
 permalink: /publication/2024-07-01-paper-title-number-2
 date: 2024-07-17
 venue: '46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society'

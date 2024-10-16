@@ -1,7 +1,7 @@
 ---
 title: "A Multimodal Framework for the Assessment of the Schizophrenia Spectrum"
 collection: publications
-# category: conferences
+category: conferences
 permalink: /publication/2024-09-05-paper-title-number-3
 date: 2024-09-05
 venue: 'Interspeech 2024'

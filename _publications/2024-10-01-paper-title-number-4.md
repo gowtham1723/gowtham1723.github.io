@@ -1,7 +1,7 @@
 ---
 title: "Self-supervised Multimodal Speech Representations for the Assessment of Schizophrenia Symptoms"
 collection: publications
-# category: Preprints
+category: preprints
 permalink: /publication/2024-10-01-paper-title-number-4
 date: 2024-09-05
 venue: 'Submitted to ICASSP 2025'
