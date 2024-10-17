@@ -8,13 +8,4 @@ date: 2021-02-01 - 2022-03-31
 location: "Jaffna, Sri Lanka"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Conducted Laboratory sessions and tutorial sessions for their undergraduate courses such as **Data Structures and Algorithms, Data mining, Machine Learning** and **Advanced Computer and Data Networks** 
