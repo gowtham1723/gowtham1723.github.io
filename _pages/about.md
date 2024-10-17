@@ -14,5 +14,9 @@ Gowtham’s research is primarily on speech communication. He combines knowledge
 Latest News
 ===============
 
-  * **05-Sept-2024** - Gave a Lightning talk on " A Multimodal Framework for the Assessment of the Schizophrenia Spectrum" at the Special seasion on Speech and language in health: from remote monitoring to medical conversations at Interspeech 2024, Kos island, Greece.
+  * **05-Sept-2024** - Gave a Lightning talk on " A Multimodal Framework for the Assessment of the Schizophrenia Spectrum" at the Special seasion on Speech and language in health: from remote monitoring to medical conversations at Interspeech 2024.
   * **05-Sept-2024** - Our paper " A Multimodal Framework for the Assessment of the Schizophrenia Spectrum" got published at Interspeech 2024.
+  * **17-July-2024** - Our paper " A multi-modal approach for identifying schizophrenia using cross-modal attention" got published at the 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society.
+  * **04-June-2024** - Our paper " A Multimodal Framework for the Assessment of the Schizophrenia Spectrum" got accepted for publication at Interspeech 2024.
+  * **27-Apr-2024** - Our paper " A multi-modal approach for identifying schizophrenia using cross-modal attention" got accepted for publication at IEEE EMBC 2024.
+
