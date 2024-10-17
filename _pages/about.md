@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m Gowtham Premananth. I earned my Bachelor of Science honors degree in Engineering specializing in Computer Engineering from the University of Jaffna, Sri Lanka, in 2021. Currently, I am pursuing a Ph.D. in Electrical and Computer Engineering at the University of Maryland, College Park, where I have the privilege of working with Carol Espy-Wilson.
+I’m Gowtham Premananth. I earned my Bachelor of Science honors degree in Engineering specializing in Computer Engineering from the University of Jaffna, Sri Lanka, in 2021. Currently, I am pursuing a Ph.D. in Electrical and Computer Engineering at the University of Maryland, College Park, where I have the privilege of working with [Prof. Carol Espy-Wilson](https://isr.umd.edu/clark/faculty/391/Carol-Espy-Wilson).
 
 My research focuses on speech communication, where I integrate concepts from digital signal processing, speech science, linguistics, computer vision, and machine learning. I aim to conduct interdisciplinary research that explores the detection and monitoring of various mental health disorders through human speech.
 
