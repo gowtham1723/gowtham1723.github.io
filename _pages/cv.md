@@ -23,9 +23,8 @@ Work experience
   * Speech Communication Lab, Institue for Systems Research, Depertment of Electrical and Computer Engineering, University of Maryland.
   * Supervisor : Prof. Carol Espy-Wilson
 
-* May 2024 - Aug 2024 : **Phd Research Intern**
+* May 2024 - Aug 2024: **Phd Research Intern**
   * Dolby Laboratories Inc.
-  * Duties includes: worked on a project as a part of the Multimodal Processing Team in the Advanced Technologies group.
   * Supervisor: Dr. Andrea Fanelli
 
 * Feb 2020 - Jun 2020: **Research Intern**
