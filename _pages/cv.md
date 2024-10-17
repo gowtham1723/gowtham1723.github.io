@@ -57,17 +57,17 @@ Teaching
 Awards and Fellowships
 ======
 * Dean's Fellowship - 2022
-  *Department of Electrical and Computer Engineering, University of Maryland-College Park
-    *Received the prestigious Dean’s Fellowship to support doctoral studies. This fellowship is awarded to exceptional graduate students.
+  * Department of Electrical and Computer Engineering, University of Maryland-College Park
+    * Received the prestigious Dean’s Fellowship to support doctoral studies. This fellowship is awarded to exceptional graduate students.
 
-*Prof. A. Kumar David Gold Medal - 2022
-  *Faculty of Engineering, University of Jaffna
-    *Awarded to the student with the best overall academic and research performance in the field of Computer Engineering.
+* Prof. A. Kumar David Gold Medal - 2022
+  * Faculty of Engineering, University of Jaffna
+    * Awarded to the student with the best overall academic and research performance in the field of Computer Engineering.
 
-*Prof. Mahalingam Award - 2020
-  *Faculty of Engineering, University of Jaffna
-    *Awarded to the student with the Best Undergraduate Research Project at the Faculty level.
+* Prof. Mahalingam Award - 2020
+  * Faculty of Engineering, University of Jaffna
+    * Awarded to the student with the Best Undergraduate Research Project at the Faculty level.
 
-*Huawei Seeds for the Future - 2019
-  *Huawei
-    *Selected to top 10 CS/IT/CE undergraduates of the country in terms of academic merit to represent Srilanka in the worldwide program.
+* Huawei Seeds for the Future - 2019
+  * Huawei
+    * Selected to top 10 CS/IT/CE undergraduates of the country in terms of academic merit to represent Srilanka in the worldwide program.
