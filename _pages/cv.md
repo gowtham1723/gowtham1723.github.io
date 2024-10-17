@@ -19,20 +19,20 @@ Education
 
 Work experience
 ======
-* August 2022 - Present: **Graduate Research Assistant**
+* Aug 2022 - Present: **Graduate Research Assistant**
   * Speech Communication Lab, Institue for Systems Research, Depertment of Electrical and Computer Engineering, University of Maryland.
   * Supervisor : Prof. Carol Espy-Wilson
 
-* Summer 2024: **Phd Research Intern**
+* May 2024 - Aug 2024 : **Phd Research Intern**
   * Dolby Laboratories Inc.
   * Duties includes: worked on a project as a part of the Multimodal Processing Team in the Advanced Technologies group.
   * Supervisor: Dr. Andrea Fanelli
 
-* February 2020 - June 2020: **Research Intern**
+* Feb 2020 - Jun 2020: **Research Intern**
   * IIT Gandhinagar, India
   * Supervisor: Prof. Shanmuganathan Raman
 
-* January 2019 - April 2019: **Research Intern**
+* Jan 2019 - Apr 2019: **Research Intern**
   * IIT Gandhinagar, India
   * Supervisor: Prof. Shanmuganathan Raman
   
