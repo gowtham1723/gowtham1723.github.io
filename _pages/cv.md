@@ -19,20 +19,20 @@ Education
 
 Work experience
 ======
-* August 2022 - Present: Graduate Research Assistant
+* August 2022 - Present: **Graduate Research Assistant**
   * Speech Communication Lab, Institue for Systems Research, Depertment of Electrical and Computer Engineering, University of Maryland.
   * Supervisor : Prof. Carol Espy-Wilson
 
-* Summer 2024: Phd Research Intern
+* Summer 2024: **Phd Research Intern**
   * Dolby Laboratories Inc.
   * Duties includes: worked on a project as a part of the Multimodal Processing Team in the Advanced Technologies group.
   * Supervisor: Dr. Andrea Fanelli
 
-* February 2020 - June 2020: Research Intern
+* February 2020 - June 2020: **Research Intern**
   * IIT Gandhinagar, India
   * Supervisor: Prof. Shanmuganathan Raman
 
-* January 2019 - April 2019: Research Intern
+* January 2019 - April 2019: **Research Intern**
   * IIT Gandhinagar, India
   * Supervisor: Prof. Shanmuganathan Raman
   
@@ -56,18 +56,18 @@ Teaching
   
 Awards and Fellowships
 ======
-* Dean's Fellowship - 2022
+* **Dean's Fellowship** - 2022
   * Department of Electrical and Computer Engineering, University of Maryland-College Park
     * Received the prestigious Dean’s Fellowship to support doctoral studies. This fellowship is awarded to exceptional graduate students.
 
-* Prof. A. Kumar David Gold Medal - 2022
+* **Prof. A. Kumar David Gold Medal** - 2022
   * Faculty of Engineering, University of Jaffna
     * Awarded to the student with the best overall academic and research performance in the field of Computer Engineering.
 
-* Prof. Mahalingam Award - 2020
+* **Prof. Mahalingam Award** - 2020
   * Faculty of Engineering, University of Jaffna
     * Awarded to the student with the Best Undergraduate Research Project at the Faculty level.
 
-* Huawei Seeds for the Future - 2019
+* **Huawei Seeds for the Future** - 2019
   * Huawei
     * Selected to top 10 CS/IT/CE undergraduates of the country in terms of academic merit to represent Srilanka in the worldwide program.

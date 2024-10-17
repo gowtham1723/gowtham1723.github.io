@@ -1,5 +1,5 @@
 ---
-title: "Lecturer in Computer Engineering"
+title: "Lecturer for undergraduate course in Computer Engineering"
 collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/2015-spring-teaching-2
