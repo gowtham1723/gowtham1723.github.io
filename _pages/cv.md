@@ -29,11 +29,11 @@ Work experience
 
 * Feb 2020 - Jun 2020: **Research Intern**
   * IIT Gandhinagar, India
-  * Supervisor: Prof. Shanmuganathan Raman
+  * Supervisor: Dr. Shanmuganathan Raman
 
 * Jan 2019 - Apr 2019: **Research Intern**
   * IIT Gandhinagar, India
-  * Supervisor: Prof. Shanmuganathan Raman
+  * Supervisor: Dr. Shanmuganathan Raman
   
 Publications
 ======
