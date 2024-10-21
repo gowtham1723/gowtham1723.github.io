@@ -11,3 +11,9 @@ author_profile: true
 * **04-June-2024** - Our paper " A Multimodal Framework for the Assessment of the Schizophrenia Spectrum" got accepted for publication at Interspeech 2024.
 * **20-May-2024** - Started as a PhD Research Intern at Dolby Laboratories.
 * **27-Apr-2024** - Our paper " A multi-modal approach for identifying schizophrenia using cross-modal attention" got accepted for publication at IEEE EMBC 2024.
+* **25-May-2023** - Completer the PhD qualifying requirements at the University of Maryland.
+* **25-Aug-2022** - Joined as a Graduate Research Assistant in the Speech Communitaion Laboratory.
+* **25-Aug-2022** - Started PhD in Electrical and Computer Engineering at the University of Maryland.
+* **01-Apr-2022** - Joined as a Lecturer in Computer Engineerjng at the University of Jaffna.
+* **02-Mar-2022** - Got awarded the Prof. A. Kumar David Gold medal for overall best performance in Computer Engineering at the University of Jaffna.
+
