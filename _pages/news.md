@@ -4,6 +4,8 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+* **21-Dec-2024** - Our paper "Self-supervised Multimodal Speech Representations for the Assessment of Schizophrenia Symptoms" got accepted for publication at ICASSP 2025.
+* **18-Dec-2024** - Our paper "Speech-Based Estimation of Schizophrenia Severity Using Feature Fusion" got accepted for publication at SPADE workshop in ICASSP 2025.
 * **05-Sept-2024** - Gave a Lightning talk on " A Multimodal Framework for the Assessment of the Schizophrenia Spectrum" at the Special seasion on Speech and language in health: from remote monitoring to medical conversations at Interspeech 2024.
 * **05-Sept-2024** - Our paper " A Multimodal Framework for the Assessment of the Schizophrenia Spectrum" got published at Interspeech 2024.
 * **09-Aug-2024** - Completed summer Phd Research internship at Dolby Laboratories.
