@@ -1,10 +1,10 @@
 ---
 title: "Self-supervised Multimodal Speech Representations for the Assessment of Schizophrenia Symptoms"
 collection: publications
-category: preprints
+category: conferences
 permalink: /publication/2024-10-01-paper-title-number-4
 date: 2024-12-21
-venue: 'Accepted for presentation at ICASSP 2025'
+venue: 'ICASSP 2025'
 paperurl: 'https://arxiv.org/abs/2409.09733'
 citation: 'G. Premananth and C. Espy-Wilson, ‘Self-supervised Multimodal Speech Representations for the Assessment of Schizophrenia Symptoms’, arXiv preprint arXiv:2409. 09733, 2024.'
 ---
