@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 * **07-Apr-2025** - Gave an oral presentation on "Speech-Based Estimation of Schizophrenia Severity Using Feature Fusion" at the SPADE workshop in ICASSP 2025.
+* **03-Apr-2025** - Gave a poster presentation on "Speech-based Multimodal Assessment of Schizophrenia" at the 2025 Consortium meeting of the Discourse in Psychosis consortium.
 * **07-Mar-2025** - Our paper "Self-supervised Multimodal Speech Representations for the Assessment of Schizophrenia Symptoms" got published at ICASSP 2025.
 * **21-Dec-2024** - Our paper "Self-supervised Multimodal Speech Representations for the Assessment of Schizophrenia Symptoms" got accepted for publication at ICASSP 2025.
 * **18-Dec-2024** - Our paper "Speech-Based Estimation of Schizophrenia Severity Using Feature Fusion" got accepted for publication at SPADE workshop in ICASSP 2025.
