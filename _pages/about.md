@@ -13,6 +13,8 @@ My research focuses on speech communication, where I integrate concepts from dig
 
 Latest News
 ===============
+  * **07-Apr-2025** - Gave an oral presentation on  "Speech-Based Estimation of Schizophrenia Severity Using Feature Fusion" at the SPADE workshop in ICASSP 2025.
+  * **07-Mar-2025** - Our paper "Self-supervised Multimodal Speech Representations for the Assessment of Schizophrenia Symptoms" got published at ICASSP 2025.
   * **21-Dec-2024** - Our paper "Self-supervised Multimodal Speech Representations for the Assessment of Schizophrenia Symptoms" got accepted for publication at ICASSP 2025.
   * **18-Dec-2024** - Our paper "Speech-Based Estimation of Schizophrenia Severity Using Feature Fusion" got accepted for publication at SPADE workshop in ICASSP 2025.
   * **05-Sept-2024** - Gave a Lightning talk on " A Multimodal Framework for the Assessment of the Schizophrenia Spectrum" at the Special seasion on Speech and language in health: from remote monitoring to medical conversations at Interspeech 2024.
