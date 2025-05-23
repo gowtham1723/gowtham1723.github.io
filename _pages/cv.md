@@ -55,6 +55,10 @@ Teaching
   
 Awards and Fellowships
 ======
+* **Early Career Award** -2025
+  * Discourse in Psychosis Consortium 
+    * Presented to leading early-career researchers in recognition of their impactful contributions to research on Discourse in Psychosis.
+    
 * **Dean's Fellowship** - 2022
   * Department of Electrical and Computer Engineering, University of Maryland-College Park
     * Received the prestigious Dean’s Fellowship to support doctoral studies. This fellowship is awarded to exceptional graduate students.
