@@ -4,6 +4,9 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+* **19-May-2025** - Our Paper "Analyzing the Impact of Accent on English Speech: Acoustic and Articulatory Perspectives" got accpeted for publication at Interspeech 2025.
+* **19-May-2025** - Our Paper "Multimodal Biomarkers for Schizophrenia: Towards Individual Symptom Severity Estimation" got accepted for publication at Interspeech 2025
+* **09-May-2025** - Successfully completed my PhD Proposal Examination on "Multimodal Behavioral Biomarkers for Schizophrenia: Towards explainable Detection and Severity Estimation" and advacned to PhD Candidacy.
 * **07-Apr-2025** - Gave an oral presentation on "Speech-Based Estimation of Schizophrenia Severity Using Feature Fusion" at the SPADE workshop in ICASSP 2025.
 * **03-Apr-2025** - Gave a poster presentation on "Speech-based Multimodal Assessment of Schizophrenia" at the 2025 Consortium meeting of the Discourse in Psychosis consortium.
 * **07-Mar-2025** - Our paper "Self-supervised Multimodal Speech Representations for the Assessment of Schizophrenia Symptoms" got published at ICASSP 2025.
