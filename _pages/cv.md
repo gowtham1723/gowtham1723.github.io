@@ -11,8 +11,11 @@ redirect_from:
 
 Education
 ======
-* **Ph.D in Electrical and Computer Engineering**, University of Maryland - College Park, USA (2022-present)
+* **Ph.D. in Electrical and Computer Engineering**, University of Maryland - College Park, USA (2022-present)
   * Current **CGPA of 3.925 out of  4.00**
+* **M.Sc. in Electrical Engineering**, University of Maryland - College Park, USA (2022-2025)
+  * M.Sc. along the way option during the Ph.D.
+  * Graduated with **CGPA of 3.925 out of  4.00**
 * **B.Sc. in Engineering (Honours) (Specialized in Computer Engineering)**, University of Jaffna, Sri Lanka (2016-2021)
   * Graduated with a **First Class** with a **CGPA of 3.95 out of 4.00**
   * Rank: **1st/75**
@@ -22,6 +25,10 @@ Work experience
 * Aug 2022 - Present: **Graduate Research Assistant**
   * Speech Communication Lab, Institue for Systems Research, Depertment of Electrical and Computer Engineering, University of Maryland.
   * Supervisor : [Prof. Carol Espy-Wilson](https://isr.umd.edu/clark/faculty/391/Carol-Espy-Wilson)
+
+* Jun 2025 - Aug 2025: **Applied Scientist Intern**
+  * Trasncribe team at Amazon.
+  * Supervisor: [Mr. Raghavendra Elluru Veera](https://www.linkedin.com/in/veeraraghavendra?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 * May 2024 - Aug 2024: **Phd Research Intern**
   * Dolby Laboratories Inc.
