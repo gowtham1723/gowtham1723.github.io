@@ -12,10 +12,10 @@ redirect_from:
 Education
 ======
 * **Ph.D. in Electrical and Computer Engineering**, University of Maryland - College Park, USA (2022-present)
-  * Current **CGPA of 3.925 out of  4.00**
+  * Current **CGPA of 3.94 out of  4.00**
 * **M.Sc. in Electrical Engineering**, University of Maryland - College Park, USA (2022-2025)
   * M.Sc. along the way option during the Ph.D.
-  * Graduated with **CGPA of 3.925 out of  4.00**
+  * Graduated with **CGPA of 3.94 out of  4.00**
 * **B.Sc. in Engineering (Honours) (Specialized in Computer Engineering)**, University of Jaffna, Sri Lanka (2016-2021)
   * Graduated with a **First Class** with a **CGPA of 3.95 out of 4.00**
   * Rank: **1st/75**

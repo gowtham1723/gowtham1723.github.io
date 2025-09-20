@@ -8,6 +8,7 @@ author_profile: true
 * **20-Aug-2025** - Gave a poster presentation on "Multimodal Biomarkers for Schizophrenia: Towards Individual Symptom Severity Estimation" at Interspeech 2025.
 * **19-Aug-2025** - Gave a poster presentation on "Analyzing the Impact of Accent on English Speech: Acoustic and Articulatory Perspectives" at Interspeech 2025.
 * **16-Jun-2025** - Started as an Applied Scientist Intern in the Transcribe team at Amazon.
+* **23-May-2025** - Graduated with a M.Sc in Electrical Engineering from the University of Maryland, College Park through the Along the way option in the PhD program.
 * **19-May-2025** - Our Paper "Analyzing the Impact of Accent on English Speech: Acoustic and Articulatory Perspectives" got accpeted for publication at Interspeech 2025.
 * **19-May-2025** - Our Paper "Multimodal Biomarkers for Schizophrenia: Towards Individual Symptom Severity Estimation" got accepted for publication at Interspeech 2025
 * **09-May-2025** - Successfully completed my PhD Proposal Examination on "Multimodal Behavioral Biomarkers for Schizophrenia: Towards explainable Detection and Severity Estimation" and advacned to PhD Candidacy.
