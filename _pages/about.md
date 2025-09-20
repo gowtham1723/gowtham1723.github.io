@@ -13,6 +13,10 @@ My research focuses on speech communication, where I integrate concepts from dig
 
 Latest News
 ===============
+  * **29-Aug-2025** - Completed the Applied Scientist internship at Amazon.
+  * **20-Aug-2025** - Gave a poster presentation on "Multimodal Biomarkers for Schizophrenia: Towards Individual Symptom Severity Estimation" at Interspeech 2025.
+  * **19-Aug-2025** - Gave a poster presentation on "Analyzing the Impact of Accent on English Speech: Acoustic and Articulatory Perspectives" at Interspeech 2025.
+  * **16-Jun-2025** - Started as an Applied Scientist Intern in the Transcribe team at Amazon.
   * **19-May-2025** - Our Paper "Analyzing the Impact of Accent on English Speech: Acoustic and Articulatory Perspectives" got accpeted for publication at Interspeech 2025.
   * **19-May-2025** - Our Paper "Multimodal Biomarkers for Schizophrenia: Towards Individual Symptom Severity Estimation" got accepted for publication at Interspeech 2025
   * **09-May-2025** - Successfully completed my PhD Proposal Examination on "Multimodal Behavioral Biomarkers for Schizophrenia: Towards explainable Detection and Severity Estimation" and advacned to PhD Candidacy.
@@ -24,7 +28,3 @@ Latest News
   * **05-Sept-2024** - Gave a Lightning talk on " A Multimodal Framework for the Assessment of the Schizophrenia Spectrum" at the Special seasion on Speech and language in health: from remote monitoring to medical conversations at Interspeech 2024.
   * **05-Sept-2024** - Our paper " A Multimodal Framework for the Assessment of the Schizophrenia Spectrum" got published at Interspeech 2024.
   * **09-Aug-2024** - Completed summer Phd Research internship at Dolby Laboratories.
-  * **17-July-2024** - Our paper " A multi-modal approach for identifying schizophrenia using cross-modal attention" got published at the 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society.
-  * **04-June-2024** - Our paper " A Multimodal Framework for the Assessment of the Schizophrenia Spectrum" got accepted for publication at Interspeech 2024.
-  * **20-May-2024** - Started as a PhD Research Intern at Dolby Laboratories.
-  * **27-Apr-2024** - Our paper " A multi-modal approach for identifying schizophrenia using cross-modal attention" got accepted for publication at IEEE EMBC 2024.
