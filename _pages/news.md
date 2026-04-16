@@ -4,6 +4,7 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+* **27-Mar-2026** - Successfully defended my PhD Dissertation on "Multimodal Behavioral Biomarkers for Schizophrenia: Towards explainable Detection and Severity Estimation" and completed my PhD.
 * **29-Aug-2025** - Completed the Applied Scientist internship at Amazon.
 * **20-Aug-2025** - Gave a poster presentation on "Multimodal Biomarkers for Schizophrenia: Towards Individual Symptom Severity Estimation" at Interspeech 2025.
 * **19-Aug-2025** - Gave a poster presentation on "Analyzing the Impact of Accent on English Speech: Acoustic and Articulatory Perspectives" at Interspeech 2025.
